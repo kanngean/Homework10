@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
-
-Me : Praetiwa Kanngean  <br>
+<img src="mm.jpg">
+Miss Praetiwa Kanngean ID : 5908311002 <br>
 [Home](https://praetiwa.000webhostapp.com/webmaster/menu02sub.php) <br>
 [innerjoin1](http://localhost/php/innerjoin1.php)  <br>
 [innerjoin2](http://localhost/php/innerjoin2.php)  <br>
@@ -14,4 +14,4 @@ Me : Praetiwa Kanngean  <br>
 [รายงานประเภทสินค้า](http://localhost/php/join_where5.php)   <br>
 
 
-<img src="mm.jpg">
+
