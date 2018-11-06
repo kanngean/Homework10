@@ -6,7 +6,7 @@ Miss Praetiwa Kanngean ID : 5908311002 <br>
 [innerjoin2](https://praetiwa.000webhostapp.com/webmaster/innerjoin2.php)  <br>
 [innerjoin3](https://praetiwa.000webhostapp.com/webmaster/innerjoin3.php) <br>
 [innerjoin4](https://praetiwa.000webhostapp.com/webmaster/innerjoin4.php) <br>
-[innerjoin5]https://praetiwa.000webhostapp.com/webmaster/innerjoin5.php)  <br> <br>
+[innerjoin5](https://praetiwa.000webhostapp.com/webmaster/innerjoin5.php)  <br> <br>
 [รายงานรายละเอียดการสั่งซื้อสินค้า](https://praetiwa.000webhostapp.com/webmaster/join_where1.php)  <br>
 [รายงานพนักงานที่รับรายการสั่งซื้อสินค้า](https://praetiwa.000webhostapp.com/webmaster/join_where2.php)  <br> 
 [รายงานชื่อพนักงานที่ออกใบเสร็จ](https://praetiwa.000webhostapp.com/webmaster/join_where3.php)  <br>
