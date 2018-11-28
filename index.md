@@ -13,9 +13,10 @@ Miss Praetiwa Kanngean ID : 5908311002 <br>
 [รายงานชื่อสินค้าที่มีในสต็อคมากกว่า 100 ชิ้น](https://praetiwa.000webhostapp.com/webmaster/join_where4.php)  <br>
 [รายงานประเภทสินค้า](https://praetiwa.000webhostapp.com/webmaster/join_where5.php)   <br> <br>
 ระบบการสั่งซื้อสินค้า  <br>
-
-
-
+[myorderform](https://praetiwa.000webhostapp.com/webmaster/myorderform.php) <br>
+[myproducts](https://praetiwa.000webhostapp.com/webmaster/myproducts1.php) <br>
+[myorders](https://praetiwa.000webhostapp.com/webmaster/myorders1.php) <br>
+[myorderdetails](https://praetiwa.000webhostapp.com/webmaster/myorderdetails1.php) <br><br>
 
 
 
